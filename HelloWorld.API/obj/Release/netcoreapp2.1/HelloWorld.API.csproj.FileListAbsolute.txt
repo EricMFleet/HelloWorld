@@ -1,0 +1,13 @@
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\bin\Release\netcoreapp2.1\HelloWorld.API.deps.json
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\bin\Release\netcoreapp2.1\HelloWorld.API.runtimeconfig.json
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\bin\Release\netcoreapp2.1\HelloWorld.API.runtimeconfig.dev.json
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\bin\Release\netcoreapp2.1\HelloWorld.API.dll
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\bin\Release\netcoreapp2.1\HelloWorld.API.pdb
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\obj\Release\netcoreapp2.1\HelloWorld.API.csproj.CoreCompileInputs.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\obj\Release\netcoreapp2.1\HelloWorld.API.RazorAssemblyInfo.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\obj\Release\netcoreapp2.1\HelloWorld.API.RazorAssemblyInfo.cs
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\obj\Release\netcoreapp2.1\HelloWorld.API.AssemblyInfoInputs.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\obj\Release\netcoreapp2.1\HelloWorld.API.AssemblyInfo.cs
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\obj\Release\netcoreapp2.1\HelloWorld.API.RazorTargetAssemblyInfo.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\obj\Release\netcoreapp2.1\HelloWorld.API.dll
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld.API\obj\Release\netcoreapp2.1\HelloWorld.API.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "HelloWorld.Console/1.0.0": {
+        "dependencies": {
+          "HelloWorldRepository.Service": "1.0.0"
+        },
+        "runtime": {
+          "HelloWorld.Console.dll": {}
+        }
+      },
+      "HelloWorldRepository.Service/1.0.0": {
+        "runtime": {
+          "HelloWorldRepository.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelloWorldRepository.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

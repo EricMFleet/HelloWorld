@@ -1,0 +1,14 @@
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp2.1\HelloWorld.Console.deps.json
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp2.1\HelloWorld.Console.runtimeconfig.json
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp2.1\HelloWorld.Console.runtimeconfig.dev.json
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp2.1\HelloWorld.Console.dll
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp2.1\HelloWorld.Console.pdb
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp2.1\HelloWorldRepository.Service.dll
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp2.1\HelloWorldRepository.Service.pdb
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp2.1\HelloWorld.Console.csprojAssemblyReference.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp2.1\HelloWorld.Console.csproj.CoreCompileInputs.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp2.1\HelloWorld.Console.AssemblyInfoInputs.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp2.1\HelloWorld.Console.AssemblyInfo.cs
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp2.1\HelloWorld.Console.csproj.CopyComplete
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp2.1\HelloWorld.Console.dll
+C:\Users\ericf\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp2.1\HelloWorld.Console.pdb

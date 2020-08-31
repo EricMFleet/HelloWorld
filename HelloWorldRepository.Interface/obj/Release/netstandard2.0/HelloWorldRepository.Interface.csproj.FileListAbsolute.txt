@@ -1,0 +1,8 @@
+C:\Users\ericf\source\repos\HelloWorld\HelloWorldRepository.Interface\bin\Release\netstandard2.0\HelloWorldRepository.Interface.deps.json
+C:\Users\ericf\source\repos\HelloWorld\HelloWorldRepository.Interface\bin\Release\netstandard2.0\HelloWorldRepository.Interface.dll
+C:\Users\ericf\source\repos\HelloWorld\HelloWorldRepository.Interface\bin\Release\netstandard2.0\HelloWorldRepository.Interface.pdb
+C:\Users\ericf\source\repos\HelloWorld\HelloWorldRepository.Interface\obj\Release\netstandard2.0\HelloWorldRepository.Interface.csproj.CoreCompileInputs.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorldRepository.Interface\obj\Release\netstandard2.0\HelloWorldRepository.Interface.AssemblyInfoInputs.cache
+C:\Users\ericf\source\repos\HelloWorld\HelloWorldRepository.Interface\obj\Release\netstandard2.0\HelloWorldRepository.Interface.AssemblyInfo.cs
+C:\Users\ericf\source\repos\HelloWorld\HelloWorldRepository.Interface\obj\Release\netstandard2.0\HelloWorldRepository.Interface.dll
+C:\Users\ericf\source\repos\HelloWorld\HelloWorldRepository.Interface\obj\Release\netstandard2.0\HelloWorldRepository.Interface.pdb
